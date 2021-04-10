@@ -1,0 +1,5 @@
+- 👋 Hi, We're @AbyssStudios
+- 👀 We're interested in filming and game development
+- 🌱 We're not currently hiring
+- 💞️ We're looking to collaborate on Java Minecraft Modding
+- 📫 Reach us at pgm@AbyssStudios.pw
